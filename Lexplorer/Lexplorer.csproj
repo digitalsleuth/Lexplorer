@@ -21,7 +21,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
     <PackageReference Include="MudBlazor" Version="6.0.10" />
     <PackageReference Include="Nethereum.ENS" Version="4.2.0" />
-    <PackageReference Include="Nethereum.Web3" Version="4.2.0" />
+    <PackageReference Include="Nethereum.Web3" Version="5.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="RestSharp" Version="107.3.0" />
     <PackageReference Include="Blazor-ApexCharts" Version="0.9.7-beta" />
